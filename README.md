@@ -1,7 +1,6 @@
 
 # Amazon - Clone using ReactJs
 
-**Project Link** - ***https://alanbinu-ecommerce.web.app/***
 
 ## Tech We Used
 
@@ -28,8 +27,3 @@
 npm i
 npm run start
 ```
-
-
-
-
-#### Hope you liked this project, dont forget to ⭐ the repo.
